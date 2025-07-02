@@ -1,0 +1,12 @@
+../Core/Src/state_machine.c:68:6:updateState	8	static
+../Core/Src/state_machine.c:95:13:modeToString	16	static
+../Core/Src/state_machine.c:103:13:outputToString	16	static
+../Core/Src/state_machine.c:113:10:get_random_delay	8	static
+../Core/Src/state_machine.c:119:6:update_oled_display	16	static
+../Core/Src/state_machine.c:195:6:trigger_output	16	static
+../Core/Src/state_machine.c:222:6:handle_menu	8	static
+../Core/Src/state_machine.c:274:6:handle_stopwatch_primed	8	static
+../Core/Src/state_machine.c:300:6:handle_stopwatch_paused	16	static
+../Core/Src/state_machine.c:333:6:handle_stopwatch_run	8	static
+../Core/Src/state_machine.c:361:6:handle_timer_run	16	static
+../Core/Src/state_machine.c:428:6:handle_timer_paused	16	static
