@@ -4,10 +4,11 @@ Description:
 - This concept could be taken a step further and made into a "Smart Baton" (like they use in Relay Races): make a custom PCB, 3D printing a compact case, using a LiPo battery, and use some higher quality buttons
 
 Features:
+- in stopwatch mode, when press start, a random interval from 2-5 seconds will pass, then the device will beep/vibrate (depending on output mode) telling the user to GO, this is to test the reaction/time in a race (simulates a third party telling the racers when to go)
 - back and ok buttons, button state tracking, and button debouncing using timers and interrupts
 - state machine to transition between different modes
 - can customize the output mode (haptic/vibrate, buzzer, silent) from the menu
-- can navigate between modes and ability to pause and reset timer/stopwatch
+- can navigate between modes and can pause, play, and reset timers and stopwatch 
 
 Hardware:
 - Nucle-F446RE development board
