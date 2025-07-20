@@ -11,7 +11,7 @@ Features:
 - can navigate between modes and can pause, play, and reset timers and stopwatch 
 
 Hardware:
-- Nucle-F446RE development board
+- Nucleo-F401RE development board
 - haptic/vibrational motor
 - buzzer
 - transistors (limit current supplied from dev board)
