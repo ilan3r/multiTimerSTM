@@ -21,7 +21,8 @@ Hardware:
 Improvements:
 - incorporating RTC might make it simpler
 - add ability to customize the two timer periods (right now they are just 10 seconds and 5 seconds)
-- take it a step further and actually build the Smart Baton - PCB design, printed case, etc. 
+- take it a step further and actually build the Smart Baton - PCB design, printed case, etc.
+- add accelerometer to track speed and acceleration/speed data during sprint training  
 
 Video Demonstration:
 https://drive.google.com/file/d/16z4KxHUYy8rXcmrOj_2vOF_finLPhyB3/view?usp=sharing
